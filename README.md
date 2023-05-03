@@ -1,3 +1,17 @@
+# Nessa breve seção eu vou explicar o que eu fiz
+
+● Primeiramente instalei o [node](https://nodejs.org/en)
+
+● Então criei um diretório e dentro dele criei meu projeto básico de react rodando o comando `npx create-react-app nome-do-projeto`
+
+● Trabalhei apenas dentro do arquivo App.js para criar um pequeno form que recebe abre um "popup" que pergunta o nome da pessoa e em seguida responde com um olá
+
+Pra rodar isso:
+
+● Abra o terminal na pasta do projeto e execute o comando `npm start`
+
+Nisso o servidor vai iniciar e o aplicativo vai abrir no navegador
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
